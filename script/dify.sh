@@ -28,11 +28,11 @@ start_services() {
     nohup npm run dev > journal.log 2>&1 &
 
     # 提交本地代码至远程
-    echo "提交本地代码至远程..."
-    cd $BASE_DIR
-    git add .
-    git commit -m "测试提交"
-    git push origin main
+    # echo "提交本地代码至远程..."
+    # cd $BASE_DIR
+    # git add .
+    # git commit -m "测试提交"
+    # git push origin main
 
     echo "服务已启动!"
 }
