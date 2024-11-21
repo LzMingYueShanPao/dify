@@ -21,16 +21,16 @@ const Header: FC<HeaderProps> = ({
       
       <p style={{ color: '#155eef' }}>示例：<br />
       <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block' , margin: '0', padding: '4px' }}>
-        请生成开学季，有关防晒的科普文案
+        袋鼠比比儿童轻阳倍护防晒乳SPF30PA+++(白帽款)-30g适合什么年龄段的儿童使用？
       </div>
       <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block' , margin: '0', padding: '4px' }}>
-        生成给宝宝洗澡时的种草文案，仔细描述洗澡的心得或感受
+        袋鼠比比儿童轻阳倍护防晒乳SPF30PA+++(白帽款)-30g的产品优势是什么？
       </div>
       <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block' , margin: '0', padding: '4px' }}>
-        生成给宝宝洗脸时的种草文案，仔细描述清洁的心得或感受
+        袋鼠比比儿童轻阳倍护防晒乳SPF30PA+++(白帽款)-30g通过了哪些安全验证？
       </div>
       <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block' , margin: '0', padding: '4px' }}>
-        生成宝宝夏天睡觉太热的种草文案，仔细描述宝宝睡不着或者惊醒时妈妈的心得或感受
+        袋鼠比比儿童轻阳倍护防晒乳SPF30PA+++(白帽款)-30g的使用特点是什么？
       </div>
       </p >
     </div>
