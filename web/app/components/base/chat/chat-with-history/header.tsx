@@ -18,20 +18,20 @@ const Header: FC<HeaderProps> = ({
       `}
     >
       {/* 当前会话：{title}<br /> */}
-      
+
       <p style={{ color: '#155eef' }}>示例：<br />
-      <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block' , margin: '0', padding: '4px' }}>
-        袋鼠比比儿童轻阳倍护防晒乳SPF30PA+++(白帽款)-30g适合什么年龄段的儿童使用？
-      </div>
-      <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block' , margin: '0', padding: '4px' }}>
-        袋鼠比比儿童轻阳倍护防晒乳SPF30PA+++(白帽款)-30g的产品优势是什么？
-      </div>
-      <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block' , margin: '0', padding: '4px' }}>
-        袋鼠比比儿童轻阳倍护防晒乳SPF30PA+++(白帽款)-30g通过了哪些安全验证？
-      </div>
-      <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block' , margin: '0', padding: '4px' }}>
-        袋鼠比比儿童轻阳倍护防晒乳SPF30PA+++(白帽款)-30g的使用特点是什么？
-      </div>
+        <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block', margin: '0', padding: '4px' }}>
+        1、敏感肌适合哪些护肤产品？
+        </div>
+        <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block', margin: '0', padding: '4px' }}>
+        2、袋鼠比比儿童舒缓冰凉霜含有哪些成分？
+        </div>
+        <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block', margin: '0', padding: '4px' }}>
+        3、袋鼠比比儿童轻阳倍护防晒乳具有哪些规格？
+        </div>
+        <div style={{ border: '1px solid gray', fontWeight: 'normal', display: 'block', margin: '0', padding: '4px' }}>
+        4、袋鼠比比儿童舒缓冰凉霜-50g的产品编号是多少？
+        </div>
       </p >
     </div>
   )
